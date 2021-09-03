@@ -1,0 +1,17 @@
+
+Hello
+This project is a code that will be generating random quotes fetched from the API
+
+Steps in designing my random-quotes-generator
+1. Create and design a UI UX for my project 
+Link my style sheet to my HTML
+link my javascript to my HTML
+Create a button that will display my random quotes when clicked
+Work with API. Research, find out how to fetch data from API
+Write a function that displays the fetched data.
+
+Other Steps Includes
+Create a new repo for my project in my github account
+Push every step of the project to my github from git
+Sign up in vercel
+Use vercel to deploy my project
